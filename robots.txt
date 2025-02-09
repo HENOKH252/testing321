@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://cobra33et.github.io/cobra33ata.github.io/docs/sitemap.xml
+Sitemap: https://cobra33et.github.io/cobra33ata.github.io/sitemap.xml
